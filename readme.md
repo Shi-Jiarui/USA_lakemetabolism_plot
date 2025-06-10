@@ -25,3 +25,11 @@ US Geological Survey (USGS) public lake monitoring data
 
 ## Sample Output
 ![Sample Visualization](/FIG_2_NC_f.jpg)
+
+## References
+
+this code resiprents the work of the following projects:
+
+https://github.com/gzhaowater/lakeExtremes
+
+https://github.com/geohuanglei/TOE_LAKE_Temperature
