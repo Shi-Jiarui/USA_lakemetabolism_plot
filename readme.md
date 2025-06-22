@@ -28,7 +28,7 @@ US Geological Survey (USGS) public lake monitoring data
 
 ## References
 
-this code resiprents the work of the following projects:
+This code is inspired by the following projects:
 
 https://github.com/gzhaowater/lakeExtremes
 
